@@ -1,1 +1,1 @@
-!(cat)[image.webp]
+!["cat](image.webp]
